@@ -10,8 +10,8 @@ namespace Ders1
             Console.WriteLine("What is your name?");
             string x = Console.ReadLine();
             Console.WriteLine("What is your surname?");
-            string y = Console.ReadLine(y);
-            Console.WriteLine("Okay let's start" + x + " " + y);
+            string y = Console.ReadLine();
+            Console.WriteLine("Okay let's start" + " " + x + " " + y);
 
 
 
